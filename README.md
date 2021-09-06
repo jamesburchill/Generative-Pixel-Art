@@ -1,7 +1,7 @@
 # Generative-Pixel-Art (BASIC edition)
 Creates pixel art from classic written works.
 
-Whatever text file you place in the _data folder (named source.txt) will be read and turned into simple pixel art. I used classic works from 
+Whatever text file you place in the src/_data folder (named source.txt) will be read and turned into simple pixel art. I used classic works from 
 Project Gutenberg @ https://www.gutenberg.org - The sample pixel art included was generated using Bram Stoker's Dracula. 
 
 Using each character, it draws a circle (using pygame) of RADIUS and COLOUR. 
