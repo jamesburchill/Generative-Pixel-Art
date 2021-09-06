@@ -12,3 +12,6 @@ The samples included are just shy of 1000 x 1000 pixels. Zoom in for greater det
 I wanted to keep it simple, use common and easy to understand libraries, hence pygame. I'm working on other, more complex generative pixel art and will share details later. Until then, enjoy and happy "painting" 👍
 
 James C. Burchill
+
+* Here's a ZOOMED in sample from on of the generative art pieces.
+![](zoomed in.jpg)
