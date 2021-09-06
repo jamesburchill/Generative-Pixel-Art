@@ -14,4 +14,4 @@ I wanted to keep it simple, use common and easy to understand libraries, hence p
 James C. Burchill
 
 * Here's a ZOOMED in sample from on of the generative art pieces.
-![](zoomed in.jpg)
+![](https://github.com/jamesburchill/Generative-Pixel-Art/blob/master/zoomed%20in.jpg)
